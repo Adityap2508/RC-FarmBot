@@ -18,6 +18,7 @@ Constraints:
 Environmental Factors: The RC car will be exposed to various environmental conditions, including dust, moisture, and temperature fluctuations. The sensors should be rugged and weatherproof to withstand these conditions and provide accurate readings consistently.
 
 Integration and Compatibility: Ensuring compatibility and proper integration between the sensors, microcontroller, and communication module is crucial. It involves selecting components that can communicate with each other effectively and developing appropriate software or firmware to process and transmit the collected data.
+
  
 Final Solution:	
 
