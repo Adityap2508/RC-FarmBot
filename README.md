@@ -23,7 +23,7 @@ Final Solution:
 
 We brainstormed multiple ideas onto a google sheet. With some research we decided to build RC FarmBot using Arduino Uno Microcontroller connected to  Soil Moisture and DHT Sensor and a WiFi Module.  
 
-After planning, we ordered all necessary materials including Remote Controlled Car in order to solve the problem. We made a prototype with cardboard which helped determine the size that the body needed to be in order to stack up the sensors within it. We also 3D printed the insertion and extraction tool to measure the soil.
+After planning, we ordered all necessary material including sensors etc. We made a prototype with cardboard which helped determine the size that the body needed to be in order to stack up the sensors within it. We also 3D printed the insertion and extraction tool to measure the soil.
 
 All the sensors were tested individually multiple times and worked well after being tried. We fitted the Arduino Uno and required Sensors along with the Insertion Extraction Tool in the Remote Controlled Car. Fitting the varied electronics in the car was not an easy operation, the chassis of the car needed to be tweaked and wiring had to be slightly changed in order to accomplish a finished product. 
 
