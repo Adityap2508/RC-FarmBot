@@ -19,7 +19,6 @@ Environmental Factors: The RC car will be exposed to various environmental condi
 
 Integration and Compatibility: Ensuring compatibility and proper integration between the sensors, microcontroller, and communication module is crucial. It involves selecting components that can communicate with each other effectively and developing appropriate software or firmware to process and transmit the collected data.
 
- 
 Final Solution:	
 
 We brainstormed multiple ideas onto a google sheet. With some research we decided to build RC FarmBot using Arduino Uno Microcontroller connected to  Soil Moisture and DHT Sensor and a WiFi Module.  
